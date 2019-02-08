@@ -48,5 +48,3 @@ if __name__ == "__main__" :
     n = len(a)
     
     print(largestPerfectSquareNumber(a, n))
-
-# This code is contributed by Ryuga
